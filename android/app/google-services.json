@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549633532574",
+    "project_id": "pemmob-86161",
+    "storage_bucket": "pemmob-86161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549633532574:android:400560d36ddb6b1bb6118f",
+        "android_client_info": {
+          "package_name": "com.example.uas_pemmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549633532574-jigkhq100287qekemo3085ot3hilhe4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyH7RyFjAkaZsW0p-yodtFYne8ASP99vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549633532574-jigkhq100287qekemo3085ot3hilhe4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
